@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is E699-D241
+
+ Directory of C:\Users\RAIYAN\Desktop\gitproj
+
+21-09-2017  15:31    <DIR>          .
+21-09-2017  15:31    <DIR>          ..
+21-09-2017  15:31                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  17,682,460,672 bytes free
